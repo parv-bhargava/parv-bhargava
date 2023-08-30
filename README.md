@@ -62,13 +62,13 @@
 ## 📊 Stats &nbsp;
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=parvbhargava&show_icons=true&count_private=true&theme=tokyonight" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parvbhargava&theme=tokyonight" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=parv-bhargava&show_icons=true&count_private=true&theme=tokyonight" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parv-bhargava&theme=tokyonight" />
 	<br><br>
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvbhargava&hide=html,css,javascript&theme=tokyonight&layout=compact" />
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parv-bhargava&hide=html,css,javascript&theme=tokyonight&layout=compact" />
 </p>
 <p align="center">
-	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=parvbhargava&theme=react-dark" />
+	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=parv-bhargava&theme=react-dark" />
 </p>
 
 ---

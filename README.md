@@ -6,7 +6,6 @@
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;CS+Engineer;Quantum+Computing;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
-	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/parvbhargava" />
 </p>
 
 ---
@@ -15,7 +14,7 @@
 
 - 🔭 Currently in Master's program in Data Science.
 - 🌱 Expanding my shell to learn more each day.
-- 👯 Looking forward to become a Machine Learning Developer integrating it with Quantum Computing.
+- 👯 Looking forward to become a Data Scientist and integrating it with Quantum Computing.
 - 🥅 A keen worker and loves perfection
 - ⚡ "We don't want to tell our dreams. We want to show them!".
 
@@ -67,20 +66,18 @@
 	<br><br>
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parv-bhargava&hide=html,css,javascript&theme=tokyonight&layout=compact" />
 </p>
-<p align="center">
-	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=parv-bhargava&theme=react-dark" />
-</p>
+
 
 ---
 
 <h3 align="center">Connect with me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3>
 <p align="center">
-	<a href="https://www.linkedin.com/in/parv-bhargava-03565b193/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/bhargavaparv/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:parvbhargavapro@gmail.com?subject=Hello%20Parv" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="https://www.instagram.com/parvbhargava_/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+	<a href="https://www.instagram.com/parv_bhargava_/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 	<a href="https://www.facebook.com/parv.bhargava.92/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-	<a href="https://twitter.com/Parv_Bhargava_?s=09" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+	<a href="https://twitter.com/Parv_Bhargava_" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 
-[twitter]: https://twitter.com/Parv_Bhargava_?s=09
-[linkedin]: https://www.linkedin.com/in/parv-bhargava-03565b193/
+[twitter]: https://twitter.com/Parv_Bhargava_
+[linkedin]: https://www.linkedin.com/in/bhargavaparv/

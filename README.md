@@ -42,7 +42,9 @@
 </span>
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Neo4J-1572B6?style=for-the-badge&logo=neo4j&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+	<img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 <h4> IDE </h4>
 <span>

@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;CS+Engineer;Quantum+Computing;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Genrative+AI;Deep+Learning;Machine+Learning+Developer;CS+Engineer;Software+Developer;Quantum+Computing;Natural+Langauge+Processing;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
 </p>
 
 ---
